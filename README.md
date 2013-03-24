@@ -14,7 +14,7 @@ SQLite is public domain, MBTiles.js is MIT licensed.
 
 ## Usage
 
-```Sample working with Leaflet
+```javascript
 var mbt = MBTiles.load(
   'http://t.tilemap.jp/jcp_maps/shimabara.mbtiles',
   function(me) {
